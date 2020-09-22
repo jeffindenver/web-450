@@ -2,6 +2,7 @@
 .txt
 *.doc*
 .pptx
+.pdf
 
 # IDE
 .vscode
